@@ -6,6 +6,8 @@
 
 <img width="907" height="407" alt="image" src="https://github.com/user-attachments/assets/80bc06fa-d945-40ce-9958-54739205f810" />
 
+<img width="889" height="394" alt="image" src="https://github.com/user-attachments/assets/959ba153-2dd4-476b-9047-fbb57d457a7f" />
+
 ## What it does
 
 Shelf Scan reads a photo of a bookshelf and returns a structured catalogue of every book it can identify:
