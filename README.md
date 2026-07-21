@@ -61,5 +61,10 @@ Once hosted with a real backend, the Open Library enrichment — already fully b
 - [ ] Export the catalogue as CSV / JSON
 
 ---
+Copyright
+
+© 2026 Shubhangi Vaish. All rights reserved.
+This project — including its code, design, and written content — may not be copied, reused, or redistributed without permission.
+
 
 Built with Claude, including the vision recognition it runs on.
