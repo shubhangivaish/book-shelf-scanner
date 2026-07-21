@@ -1,7 +1,7 @@
 # Shelf Scan
 
 📚 Point a camera at a bookshelf. Get every book identified, catalogued, and enriched — automatically.
-
+Try it - https://claude.ai/public/artifacts/6551bc6b-0da4-4284-9630-0f74384eb5c9
 <img width="903" height="409" alt="image" src="https://github.com/user-attachments/assets/2ebc97d5-f20a-4b1a-b50a-e0e384df82ae" />
 
 <img width="907" height="407" alt="image" src="https://github.com/user-attachments/assets/80bc06fa-d945-40ce-9958-54739205f810" />
@@ -61,10 +61,6 @@ Once hosted with a real backend, the Open Library enrichment — already fully b
 - [ ] Export the catalogue as CSV / JSON
 
 ---
-Copyright
-
-© 2026 Shubhangi Vaish. All rights reserved.
-This project — including its code, design, and written content — may not be copied, reused, or redistributed without permission.
 
 
 Built with Claude, including the vision recognition it runs on.
