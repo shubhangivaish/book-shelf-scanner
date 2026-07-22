@@ -4,7 +4,9 @@
 Try it - https://claude.ai/public/artifacts/6551bc6b-0da4-4284-9630-0f74384eb5c9
 <img width="903" height="409" alt="image" src="https://github.com/user-attachments/assets/2ebc97d5-f20a-4b1a-b50a-e0e384df82ae" />
 
+
 <img width="907" height="407" alt="image" src="https://github.com/user-attachments/assets/80bc06fa-d945-40ce-9958-54739205f810" />
+
 
 <img width="889" height="394" alt="image" src="https://github.com/user-attachments/assets/959ba153-2dd4-476b-9047-fbb57d457a7f" />
 
